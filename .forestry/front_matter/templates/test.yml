@@ -7,3 +7,5 @@ fields:
   default: Cenas
   label: Cenas
   name: cenas
+pages:
+- content/cenas.md
