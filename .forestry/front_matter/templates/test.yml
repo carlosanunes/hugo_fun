@@ -8,4 +8,5 @@ fields:
   label: Cenas
   name: cenas
 pages:
+- content/sdlkfnsd.md
 - content/cenas.md
